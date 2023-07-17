@@ -94,6 +94,7 @@ main {
     margin: 70px auto;
 }
 
+
 /* teams container styles  */
 .teams-container {
     display: flex;
@@ -164,7 +165,6 @@ main {
         font-size: 1rem;
         font-weight: 400;
     }
-
     /* team section  */
     .teams-container{
         flex-direction: column;
@@ -173,6 +173,7 @@ main {
         margin-bottom: 30px;
         grid-template-columns: 1fr;
     }
+    
     .teams-content{
         text-align: center;
         padding: 10px;

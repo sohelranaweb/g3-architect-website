@@ -170,8 +170,6 @@ main {
         flex-direction: column;
     }
     .teams-img-container{
-        padding-left: 20px;
-        padding-right: 20px;
         margin-bottom: 30px;
         grid-template-columns: 1fr;
     }
